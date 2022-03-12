@@ -14,7 +14,7 @@ Skills: PYTHON / MACHINE LEARNING / HTML / CSS
 
 
 - 🔭 I’m currently working on RestAPI 
-- 🌱 I’m currently learning Machine leanring 
+- 🌱 I’m currently learning Machine learning
 
 
 ### Find me on <br>
