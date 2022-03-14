@@ -2,7 +2,7 @@
 
 <p align="center">
   <br>
-  <img src="https://export-download.canva.com/kEaXI/DAE6tBkEaXI/23/0/0001-21061093129.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20220311%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220311T133510Z&X-Amz-Expires=31398&X-Amz-Signature=461d40ab37014d90da11301983abc211bf20dc864744d23145168fad06b39072&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27anand%2520khanna.png&response-expires=Fri%2C%2011%20Mar%202022%2022%3A18%3A28%20GMT"/>
+  <img src="https://drive.google.com/file/d/1a8YL-Cxw9mVFEubpBg2irTaUPpCqyTQs/view?usp=sharing"/>
 </p>
 
 
