@@ -1,4 +1,4 @@
-<h3> <p align="center"> Hi there 👋 my name is Anand Khanna </p></h3>
+<h3> <p align="center"> Hi there 👋  my name is Anand Khanna </p></h3>
 
 <p align="center">
   <br>
