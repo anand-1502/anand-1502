@@ -6,7 +6,7 @@
 </p> -->
 
 
-### A creative and budding backend engineer.
+### A creative and budding Data scientist, analyist and machine learning engineer
 
 
 - 🔭 I’m currently working on RestAPI 
