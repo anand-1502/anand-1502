@@ -20,6 +20,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anand-1502&label=Profile%20views&color=0e75b6&style=flat" alt="anand-1502" /> </p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anand-1502&show_icons=true&locale=en&layout=compact&theme=radical" alt="anand-1502" /></p>
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anand-1502&show_icons=true&locale=en&theme=radical" alt="anand-1502" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anand-1502&&theme=radical" alt="anand-1502" /></p>
